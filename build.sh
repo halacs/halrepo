@@ -9,7 +9,7 @@ ARCH="amd64"
 # Version of the actual software packed into .deb package file
 VERSION="1.0.0"
 # Revision of .deb package file
-REVISION="1.0.0"
+REVISION="1.0.1"
 # Location of build files
 BUILD_DIR="${SRC_DIR}/build"
 # Location of package files
